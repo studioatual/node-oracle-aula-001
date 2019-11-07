@@ -1,0 +1,23 @@
+{
+  "name": "aula-001",
+  "version": "1.0.0",
+  "description": "Aula 001 - NodeJs with Oracledb",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studioatual/node-oracle-aula-001.git"
+  },
+  "keywords": [],
+  "author": "Studio Atual <contato@studioatual.com> (https://studioatual.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/studioatual/node-oracle-aula-001/issues"
+  },
+  "homepage": "https://github.com/studioatual/node-oracle-aula-001#readme",
+  "dependencies": {
+    "oracledb": "^4.0.1"
+  }
+}
